@@ -1,0 +1,38 @@
+{
+  "rooms": [
+    {
+      "id": "1",
+      "name": "Deluxe Suite",
+      "type": "Luxury"
+    },
+    {
+      "id": "2",
+      "name": "Standard Room",
+      "type": "Economy"
+    },
+    {
+      "id": "2",
+      "name": "Standard Room",
+      "type": "Economy"
+    },
+    {
+      "id": "3",
+      "name": "Local Room",
+      "type": "Local"
+    },
+    {
+      "id": "3",
+      "name": "Local Room",
+      "type": "Local"
+    }
+  ],
+  "reservations": [
+    {
+      "id": "6cfb",
+      "roomId": 1,
+      "guestName": "John Doe",
+      "checkInDate": "2025-04-01",
+      "checkOutDate": "2025-04-05"
+    }
+  ]
+}
